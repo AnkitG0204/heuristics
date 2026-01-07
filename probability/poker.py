@@ -5,7 +5,7 @@ A poker hand simulator
 Future updates:
 
 - Add a web version
-- add granularity to the simulation to allow for hands of same type to be ranked:  
+- add granularity to the simulation to allow for hands of same type to be ranked:
 i.e. 2 pair of 10s and 2 pair of 9s.  Currently, the simulator will only rank the
 highest pair in each hand.
 

@@ -3,8 +3,8 @@ install:
 	pip install --upgrade pip &&\
 	 	pip install -r requirements.txt
 	####optimizing for conda in GPU environment
-	conda env create -f environment.yml
-	conda activate heuristics
+	# env create -f environment.yml
+	# conda activate heuristics
 
 language-install:
 	installs/setup_rust.sh

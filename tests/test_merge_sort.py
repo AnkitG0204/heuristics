@@ -7,6 +7,7 @@ from algorithms.merge_sort import (
 )
 import pytest
 
+
 # build a fixture to test the create_pairs function
 @pytest.fixture
 def ranstring():

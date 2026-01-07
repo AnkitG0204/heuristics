@@ -11,6 +11,7 @@ import pandas as pd
 from random import shuffle
 import click
 
+
 # build a function that takes variable length argument of strings and returns a list of cities
 def my_cities(*args):
     """Build a list of cities from input"""

@@ -11,6 +11,7 @@ import random
 import string
 import click
 
+
 # create a random string of characters
 def random_string(length=4):
     """Generate a random string of characters"""
